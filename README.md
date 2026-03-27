@@ -2,7 +2,7 @@
 
 Technical SEO specialist and security-conscious builder focused on plugins, validation tooling, diagnostics, hardening, and evidence-driven implementation.
 
-I build technical SEO plugins and validation tools through [Tech SEO Experts](https://github.com/TechSEOExperts), and I use this profile to publish personal work across technical SEO, cybersecurity, privacy hardening, forensic workflows, and detection-focused documentation.
+I build technical SEO plugins and validation tools through [Tech SEO Experts](https://github.com/Tech-SEO-Experts), and I use this profile to publish personal work across technical SEO, cybersecurity, privacy hardening, forensic workflows, and detection-focused documentation.
 
 ## Current Focus
 
@@ -22,19 +22,19 @@ I am currently focused on:
 
 These repositories are maintained through the **Tech SEO Experts** organization and represent my current plugin portfolio:
 
-- [tse-robots-txt-tester](https://github.com/TechSEOExperts/tse-robots-txt-tester)  
+- [tse-robots-txt-tester](https://github.com/Tech-SEO-Experts/tse-robots-txt-tester)  
   Robots.txt validation and directive testing for technical SEO workflows.
 
-- [tse-schema-markup-generator](https://github.com/TechSEOExperts/tse-schema-markup-generator)  
+- [tse-schema-markup-generator](https://github.com/Tech-SEO-Experts/tse-schema-markup-generator)  
   Structured data generation tooling focused on practical implementation.
 
-- [tse-xml-sitemap-validator](https://github.com/TechSEOExperts/tse-xml-sitemap-validator)  
+- [tse-xml-sitemap-validator](https://github.com/Tech-SEO-Experts/tse-xml-sitemap-validator)  
   XML sitemap validation for structure, coverage, and implementation quality.
 
-- [tse-on-page-seo-auditor](https://github.com/TechSEOExperts/tse-on-page-seo-auditor)  
+- [tse-on-page-seo-auditor](https://github.com/Tech-SEO-Experts/tse-on-page-seo-auditor)  
   On-page SEO auditing focused on actionable page-level diagnostics.
 
-- [tse-page-indexability-checker](https://github.com/TechSEOExperts/tse-page-indexability-checker)  
+- [tse-page-indexability-checker](https://github.com/Tech-SEO-Experts/tse-page-indexability-checker)  
   Indexability validation based on technical signals and controllable page directives.
 
 ### Personal security and research work
@@ -110,7 +110,7 @@ Current professional credentials include:
 
 ## Tech SEO Experts
 
-Most of my productized plugin work is published through [Tech SEO Experts](https://github.com/TechSEOExperts).
+Most of my productized plugin work is published through [Tech SEO Experts](https://github.com/Tech-SEO-Experts).
 
 Tech SEO Experts focuses on technical SEO plugins, validation tooling, and evidence-driven diagnostics for WordPress, search visibility, and site quality.
 
