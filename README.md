@@ -114,7 +114,7 @@ Most of my productized plugin work is published through [Tech SEO Experts](https
 
 Tech SEO Experts focuses on technical SEO plugins, validation tooling, and evidence-driven diagnostics for WordPress, search visibility, and site quality.
 
-Website: [techseoexperts.com](https://www.techseoexperts.com)
+Website: [techseoexperts.com](https://www.techseoexperts.com) & [techseofreelancer.com](https://www.techseofreelancer.com)
 
 ## Approach
 
