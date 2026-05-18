@@ -1,133 +1,128 @@
 # Jeremy Burgos
 
-Technical SEO specialist and security-conscious builder focused on plugins, validation tooling, diagnostics, hardening, and evidence-driven implementation.
+Full-stack SEO engineer and security-conscious builder working at the intersection of technical SEO, web infrastructure security, analytics, and implementation quality.
 
-I build technical SEO plugins and validation tools through [Tech SEO Experts](https://github.com/Tech-SEO-Experts), and I use this profile to publish personal work across technical SEO, cybersecurity, privacy hardening, forensic workflows, and detection-focused documentation.
+I build practical systems that help site owners, developers, and SEO professionals verify issues clearly, reduce ambiguity, and improve long-term site performance and resilience. My work spans WordPress plugin engineering, specialist platform builds, SIEM deployments, endpoint hardening, and forensic analysis documentation.
+
+---
+
+## What I Do
+
+Most technical problems do not stay in one lane. Search performance, site security, analytics integrity, and infrastructure decisions affect each other. I work where those things overlap — which is usually where the most expensive problems live.
+
+### Technical SEO & Web Systems
+Site architecture, crawl control, internal linking, structured data, migrations, Core Web Vitals, and the implementation decisions that shape long-term search performance.
+
+### Security & Infrastructure
+WordPress hardening, WAF and edge security, web infrastructure resilience, macOS and Linux endpoint hardening, Wazuh SIEM deployment and active response tuning, and firewall telemetry analysis.
+
+### Analytics & Data Integrity
+GA4, GTM, Microsoft Clarity, event tracking, UTM governance, reporting quality, and the measurement problems that make it harder for teams to trust what the data is actually saying.
+
+### Plugin Engineering
+A growing portfolio of WordPress plugins focused on technical SEO validation, diagnostics, and audit tooling — with future Shopify and commerce-focused tooling in scope.
+
+---
 
 ## Current Focus
 
-I am currently focused on:
+- WordPress plugin engineering and validation tooling through [@Tech-SEO-Experts](https://github.com/Tech-SEO-Experts)
+- Web Stack Defense — specialist security platform covering website infrastructure, WAF and edge security, WordPress security, and Google Cloud security for web workloads
+- macOS and Linux privacy hardening and endpoint security
+- Wazuh detection engineering, active response tuning, and custom rule design
+- Forensic analysis documentation and repeatable investigation workflows
+- Structured data implementation and indexability validation workflows
 
-- technical SEO diagnostics and validation tooling
-- WordPress plugin engineering
-- future Shopify and commerce-focused SEO tooling
-- structured data and indexability workflows
-- macOS privacy hardening and system security
-- Wazuh engineering and active response tuning
-- forensic analysis documentation and repeatable investigation workflows
+---
 
-## Featured Work
+## Featured Platforms
 
-### Tech SEO Experts plugin suite
+### [Web Stack Defense](https://www.webstackdefense.com) · Specialist Security Platform
+A deliberate specialist site focused on website and web infrastructure security — not a broad cyber blog. The scope covers WAF and edge security, WordPress security, Google Cloud security for web workloads, and the monitoring, logging, recovery, and resilience work that sits around those environments. Built with clear editorial structure, trust architecture, and service pages tied directly to the subject matter.
 
-These repositories are maintained through the **Tech SEO Experts** organization and represent my current plugin portfolio:
+### [Tech SEO Experts](https://www.techseoexperts.com) · Technical SEO Platform
+Authority-site build supporting technical SEO publishing, plugin development, diagnostics, and service visibility. Home to the plugin suite published through the [@Tech-SEO-Experts](https://github.com/Tech-SEO-Experts) organization.
 
-- [tse-robots-txt-tester](https://github.com/Tech-SEO-Experts/tse-robots-txt-tester)  
-  Robots.txt validation and directive testing for technical SEO workflows.
+### [jeremyburgos.com](https://www.jeremyburgos.com) · Personal Portfolio
+Personal portfolio built around selected proof, technical credibility, and clear professional positioning across technical SEO, security, and infrastructure work.
 
-- [tse-schema-markup-generator](https://github.com/Tech-SEO-Experts/tse-schema-markup-generator)  
-  Structured data generation tooling focused on practical implementation.
+---
 
-- [tse-xml-sitemap-validator](https://github.com/Tech-SEO-Experts/tse-xml-sitemap-validator)  
-  XML sitemap validation for structure, coverage, and implementation quality.
+## Plugin Portfolio
 
-- [tse-on-page-seo-auditor](https://github.com/Tech-SEO-Experts/tse-on-page-seo-auditor)  
-  On-page SEO auditing focused on actionable page-level diagnostics.
+These repositories are maintained through the **Tech SEO Experts** organization:
 
-- [tse-page-indexability-checker](https://github.com/Tech-SEO-Experts/tse-page-indexability-checker)  
-  Indexability validation based on technical signals and controllable page directives.
+| Plugin | Description |
+|---|---|
+| [robots-txt-tester](https://github.com/Tech-SEO-Experts/tse-robots-txt-tester) | Robots.txt validation and directive testing for technical SEO workflows |
+| [schema-markup-generator](https://github.com/Tech-SEO-Experts/tse-schema-markup-generator) | Structured data generation focused on practical JSON-LD implementation |
+| [xml-sitemap-validator](https://github.com/Tech-SEO-Experts/tse-xml-sitemap-validator) | XML sitemap validation for structure, coverage, and implementation quality |
+| [on-page-seo-auditor](https://github.com/Tech-SEO-Experts/tse-on-page-seo-auditor) | On-page SEO auditing focused on actionable page-level diagnostics |
+| [page-indexability-checker](https://github.com/Tech-SEO-Experts/tse-page-indexability-checker) | Indexability validation based on technical signals and controllable page directives |
 
-### Personal security and research work
+---
 
-My personal profile is where I publish research-driven and documentation-heavy work that sits alongside the plugin portfolio.
+## Personal Repository Work
 
-Current and planned areas include:
+Security research, hardening documentation, and detection engineering published on this profile:
 
-- macOS privacy hardening guides
-- forensic analysis steps and Volatility workflows
-- Wazuh setup, active response tuning, and custom rule design
-- technical documentation for detection, validation, and investigative processes
-- future plugin and tooling projects that sit across technical SEO and cybersecurity
+| Repository | Description |
+|---|---|
+| [macos-privacy-hardening](https://github.com/Jeremy-Burgos/macos-privacy-hardening) | macOS workstation hardening — visibility, integrity checks, firewalling, DNS privacy, logging, and forensic readiness |
+| [linux](https://github.com/Jeremy-Burgos/linux) | Linux hardening toolkit for Debian and Ubuntu — least privilege, firewalling, MAC, and auditing |
+| [wazuh-detection-engineering](https://github.com/Jeremy-Burgos/wazuh-detection-engineering) | Sanitized Wazuh detection content — custom rules, decoders, IOC lists, active-response guidance, and operator-safety guardrails |
+| [firewalla-flow-analysis-sqlite](https://github.com/Jeremy-Burgos/firewalla-flow-analysis-sqlite) | Firewall telemetry collection and SQLite-based analysis for reviewing blocked traffic and defensive monitoring patterns |
+| [elementor-form-hardening](https://github.com/Jeremy-Burgos/tseo-elementor-form-hardening) | Production-grade Elementor form hardening with server-side business-email qualification, validation, and normalization |
 
-## What I Build
+---
 
-The work on this profile generally falls into four categories.
+## Selected Project Work
 
-### Technical SEO tooling
+| Project | Type |
+|---|---|
+| [Web Stack Defense Platform Build](https://www.jeremyburgos.com/projects/web-stack-defense-specialist-security-platform-build/) | Specialist security publishing and advisory platform |
+| [Wazuh SIEM and XDR Deployment](https://www.jeremyburgos.com/projects/wazuh-siem-and-xdr-deployment/) | Security monitoring, active response, and traffic filtering |
+| [Secure Kasm Workspace Deployment](https://www.jeremyburgos.com/projects/secure-kasm-workspace-deployment/) | Isolated computing, controlled egress, secure access workflows |
+| [WooCommerce to Shopify Migration](https://www.jeremyburgos.com/projects/woocommerce-to-shopify-migration/) | Platform migration with full SEO continuity and structure preservation |
+| [Tech SEO Experts Platform Build](https://www.jeremyburgos.com/projects/tech-seo-experts-platform-build/) | Authority site for technical SEO publishing, plugins, and service visibility |
 
-I build tools and documentation that help validate:
-
-- crawl behavior
-- indexing and canonicalization signals
-- structured data quality
-- on-page implementation
-- sitemap integrity
-- practical technical SEO workflows
-
-### Plugin engineering
-
-I am building a growing portfolio of plugins focused on:
-
-- WordPress technical SEO workflows
-- validation and audit tooling
-- maintainable engineering and documentation standards
-- future Shopify and commerce-related SEO tooling where it aligns with diagnostics, search visibility, and implementation quality
-
-### Security and hardening documentation
-
-I document practical workflows related to:
-
-- macOS privacy and hardening
-- safer system configuration
-- endpoint logging and analysis
-- defensive monitoring and rule tuning
-- security-aware implementation decisions
-
-### Forensics and detection workflows
-
-I am also building documentation around:
-
-- forensic analysis methodology
-- Volatility-based investigation steps
-- evidence collection and review workflows
-- Wazuh active response strategy
-- custom rules, alert handling, and operational tuning
-
-## Professional Background
-
-My work sits at the intersection of technical SEO, security-conscious engineering, diagnostics, and implementation quality.
-
-I focus on building practical systems that help site owners, developers, and SEO professionals verify issues clearly, reduce ambiguity, and improve long-term maintainability.
+---
 
 ## Certifications
 
-Current professional credentials include:
+- [Google Cloud Professional Security Engineer](https://www.credly.com/badges/9aea391e-1229-4b1a-8ae5-c87595ac5a3c/public_url)
+- [CompTIA Security+](https://www.credly.com/badges/3ba22121-38b2-4c32-bb96-14316b8d02c6/public_url)
+- [Google Analytics Certification](https://www.jeremyburgos.com/wp-content/uploads/2025/12/GA4-Certification.avif)
+- [Semrush Technical SEO Certification](https://www.jeremyburgos.com/wp-content/uploads/2025/12/Semrush-certification.avif)
 
-- Google Cloud Professional Security Engineer
-- CompTIA Security+
-- Google Analytics Certification
-- Semrush Technical SEO
-
-## Tech SEO Experts
-
-Most of my productized plugin work is published through [Tech SEO Experts](https://github.com/Tech-SEO-Experts).
-
-Tech SEO Experts focuses on technical SEO plugins, validation tooling, and evidence-driven diagnostics for WordPress, search visibility, and site quality.
-
-Website: [techseoexperts.com](https://www.techseoexperts.com) & [techseofreelancer.com](https://www.techseofreelancer.com)
+---
 
 ## Approach
 
-The work I publish is guided by a few core principles:
+- Security first, convenience second
+- Evidence before assumptions
+- Practical tools over vague theory
+- Maintainable engineering over clutter
+- Documentation that is clear, direct, and reusable
 
-- security first, convenience second
-- evidence before assumptions
-- practical tools over vague theory
-- maintainable engineering over clutter
-- documentation that is clear, direct, and reusable
+---
+
+## Ecosystem
+
+| Platform | Focus |
+|---|---|
+| [webstackdefense.com](https://www.webstackdefense.com) | Website and web infrastructure security |
+| [techseoexperts.com](https://www.techseoexperts.com) | Technical SEO plugins, tooling, and diagnostics |
+| [techseofreelancer.com](https://www.techseofreelancer.com) | Direct freelance and consulting inquiries |
+| [jeremyburgos.com](https://www.jeremyburgos.com) | Personal portfolio and selected project work |
+
+---
 
 ## Contact
 
-For repository-specific issues, use the relevant GitHub repository issue tracker and security process.
+For repository-specific issues, use the relevant GitHub repository issue tracker.
 
-For professional inquiries related to technical SEO, plugin implementation, or consulting, use the published contact channels associated with Tech SEO Experts.
+For professional inquiries related to technical SEO, security, plugin implementation, or consulting:
+
+- **Website:** [jeremyburgos.com/contact-me](https://www.jeremyburgos.com/contact-me/)
+- **LinkedIn:** [linkedin.com/in/jeremy-burgos](https://www.linkedin.com/in/jeremy-burgos)
