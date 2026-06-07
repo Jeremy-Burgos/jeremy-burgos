@@ -43,7 +43,7 @@ A growing portfolio of WordPress plugins focused on technical SEO validation, di
 
 Two complete, unredacted sample audits are published on my portfolio, produced with the same toolchain and methodology I bring to client engagements. Both are downloadable as PDFs.
 
-- **[Technical SEO Diagnostic](https://www.jeremyburgos.com/sample-audits/)**: A 500-URL crawl of a WordPress site on Astra, Elementor, Cloudflare, and FlyingPress. Covers crawlability, indexation, on-page signals, Core Web Vitals, structured data, AI search readiness, internal linking, E-E-A-T signals, and security headers. Includes a prioritized remediation roadmap with effort estimates.
+- **[Technical SEO Diagnostic](https://www.jeremyburgos.com/sample-audits/)**: A crawl of a WordPress site on Astra, Elementor, Cloudflare, and FlyingPress. Covers crawlability, indexation, on-page signals, Core Web Vitals, structured data, AI search readiness, internal linking, E-E-A-T signals, and security headers. Includes a prioritized remediation roadmap with effort estimates.
 
 - **[WordPress Performance Review](https://www.jeremyburgos.com/sample-audits/)**: A performance review of a WordPress site on the same stack. Evaluates infrastructure response time, Core Web Vitals across three independent measurement sources, caching strategy, asset delivery, image optimization, and CSS optimization. Sequenced sprint roadmap included.
 
@@ -55,7 +55,7 @@ The point of publishing both is to let prospective clients evaluate the depth of
 
 ### [Web Stack Defense](https://www.webstackdefense.com)
 
-A specialist site focused on website and web infrastructure security, not a broad cyber blog. Scope covers WAF and edge security, WordPress security, Google Cloud security for web workloads, and the monitoring, logging, recovery, and resilience work that sits around those environments. Built with clear editorial structure, trust architecture, and service pages tied directly to the subject matter.
+A specialist site focused on website and web infrastructure security, not a broad cyber blog. Scope covers WAF and edge security, WordPress security, Google Cloud security for web workloads, and the monitoring, logging, recovery, and resilience work that sits around those environments. Built with clear editorial structure, trust architecture, and service pages tied directly to the subject matter. [@Web-Stack-Defense](https://github.com/web-stack-defense)
 
 ### [Tech SEO Experts](https://www.techseoexperts.com)
 
