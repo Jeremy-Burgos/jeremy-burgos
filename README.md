@@ -113,6 +113,5 @@ Security research, hardening documentation, and detection engineering published 
 - Portfolio: [jeremyburgos.com](https://www.jeremyburgos.com)
 - LinkedIn: [in/jeremy-burgos](https://www.linkedin.com/in/jeremy-burgos)
 - Credly: [credly.com/users/jeremyburgos](https://www.credly.com/users/jeremyburgos/badges)
-- X: [@thejeremyburgos](https://x.com/thejeremyburgos)
 - Dev.to: [dev.to/jeremy-burgos](https://dev.to/jeremy-burgos)
 - Substack: [substack.com/@jeremyburgos](https://substack.com/@jeremyburgos)
