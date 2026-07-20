@@ -2,11 +2,11 @@
 
 Technical SEO engineer and security researcher working at the intersection of technical SEO, web infrastructure security, analytics, and implementation quality.
 
-I build systems that help site owners, developers, and SEO professionals verify issues clearly, reduce ambiguity, and improve site performance over time. My work spans WordPress plugin engineering, specialist site builds, SIEM deployments, endpoint hardening, and forensic analysis documentation.
+I build systems that help site owners, developers, and SEO professionals verify issues clearly, reduce ambiguity, and improve site performance over time. My work spans WordPress engineering, SIEM deployment and detection tuning, endpoint hardening, telemetry analysis, and forensic documentation.
 
 ---
 
-## What I Do
+## What I Work On
 
 Most technical problems do not stay in one lane. Search performance, site security, analytics integrity, and infrastructure decisions affect each other. I work where those things overlap, which is usually where the most consequential problems live.
 
@@ -22,96 +22,43 @@ WordPress hardening, WAF and edge security, web infrastructure resilience, macOS
 
 GA4, GTM, Microsoft Clarity, event tracking, UTM governance, reporting quality, and the measurement problems that make it harder for teams to trust what the data is actually saying.
 
-### Plugin Engineering
-
-A growing portfolio of WordPress plugins focused on technical SEO validation, diagnostics, and audit tooling.
-
 ---
 
-## Current Focus
+## Selected Projects
 
-- WordPress plugin engineering and validation tooling through [@Tech-SEO-Experts](https://github.com/Tech-SEO-Experts)
-- Web Stack Defense, a specialist security organization covering website infrastructure, WAF and edge security, WordPress security, and Google Cloud security for web workloads, published through [@web-stack-defense](https://github.com/web-stack-defense)
-- macOS and Linux privacy hardening and endpoint security
-- Wazuh detection engineering, active response tuning, and custom rule design
-- Forensic analysis documentation and repeatable investigation workflows
-- Structured data implementation and indexability validation workflows
-
----
-
-## Sample Audits
-
-Two complete, unredacted sample audits are published on my portfolio, produced with the same toolchain and methodology I bring to client engagements. Both are downloadable as PDFs.
-
-- **[Technical SEO Diagnostic](https://www.jeremyburgos.com/sample-audits/)**: A crawl of a WordPress site on Astra, Elementor, Cloudflare, and FlyingPress. Covers crawlability, indexation, on-page signals, Core Web Vitals, structured data, AI search readiness, internal linking, E-E-A-T signals, and security headers. Includes a prioritized remediation roadmap with effort estimates.
-
-- **[WordPress Performance Review](https://www.jeremyburgos.com/sample-audits/)**: A performance review of a WordPress site on the same stack. Evaluates infrastructure response time, Core Web Vitals across three independent measurement sources, caching strategy, asset delivery, image optimization, and CSS optimization. Sequenced sprint roadmap included.
-
-The point of publishing both is to let prospective clients evaluate the depth of the diagnostic work before deciding to hire.
-
----
-
-## Featured Platforms
-
-### [Web Stack Defense](https://www.webstackdefense.com)
-
-A specialist site focused on website and web infrastructure security, not a broad cyber blog. Scope covers WAF and edge security, WordPress security, Google Cloud security for web workloads, and the monitoring, logging, recovery, and resilience work that sits around those environments. Built with clear editorial structure, trust architecture, and service pages tied directly to the subject matter. [@Web-Stack-Defense](https://github.com/web-stack-defense)
-
-### [Tech SEO Experts](https://www.techseoexperts.com)
-
-Authority site supporting technical SEO publishing, plugin development, diagnostics, and service visibility. Home to the plugin suite published through the [@Tech-SEO-Experts](https://github.com/Tech-SEO-Experts) organization.
-
-### [jeremyburgos.com](https://www.jeremyburgos.com)
-
-Personal portfolio built around selected proof, technical credibility, and clear professional positioning across technical SEO, security, and infrastructure work. Hosts the published [sample audits](https://www.jeremyburgos.com/sample-audits/) and [project case studies](https://www.jeremyburgos.com/projects/).
-
----
-
-## Plugin Portfolio
-
-These repositories are maintained through the **Tech SEO Experts** organization:
-
-| Plugin | Description |
+| Repository | What it demonstrates |
 |---|---|
-| [tse-robots-txt-tester](https://github.com/Tech-SEO-Experts/tse-robots-txt-tester) | Robots.txt validation and directive testing for technical SEO workflows |
-| [tse-schema-markup-generator](https://github.com/Tech-SEO-Experts/tse-schema-markup-generator) | Structured data generation focused on JSON-LD implementation |
-| [tse-xml-sitemap-validator](https://github.com/Tech-SEO-Experts/tse-xml-sitemap-validator) | XML sitemap validation for structure, coverage, and implementation quality |
-| [tse-on-page-seo-auditor](https://github.com/Tech-SEO-Experts/tse-on-page-seo-auditor) | On-page SEO auditing focused on actionable page-level diagnostics |
-| [tse-page-indexability-checker](https://github.com/Tech-SEO-Experts/tse-page-indexability-checker) | Indexability validation based on technical signals and controllable page directives |
+| [threat-observation-pipeline](https://github.com/Jeremy-Burgos/threat-observation-pipeline) | Local-first Python pipeline for importing Cloudflare Security Events and Firewalla flow exports, with redaction at import time, classification, read-only enrichment gated behind an explicit kill switch, and draft-only report generation. Tested with pytest. |
+| [page-priority-intelligence](https://github.com/Jeremy-Burgos/page-priority-intelligence) | Turns crawl, Search Console, GA4, PageSpeed, and backlink data into a ranked SEO action list with a transparent scoring model, evidence-cited recommendations, and stakeholder-facing reports. Runs locally with no uploads. |
+| [wazuh-detection-engineering](https://github.com/Jeremy-Burgos/wazuh-detection-engineering) | Sanitized Wazuh detection content from an Ubuntu deployment: custom rules, decoders, IOC handling, active-response guidance, and operator-safety guardrails. |
+| [elementor-form-hardening](https://github.com/Jeremy-Burgos/elementor-form-hardening) | Server-side hardening for Elementor lead forms on WordPress: business-email qualification, validation, and normalization, with PHPUnit coverage and a documented custom-code deployment model. |
+| [macos-privacy-hardening](https://github.com/Jeremy-Burgos/macos-privacy-hardening) | macOS workstation hardening covering integrity checks, firewalling, DNS privacy, logging, and version-sensitive validation notes across recent macOS releases. |
+| [linux-hardening-baseline](https://github.com/Jeremy-Burgos/linux-hardening-baseline) | CIS-aligned Debian and Ubuntu hardening references covering services, firewalling, SSH, mandatory access control, auditing, and Fail2ban, with explicit test-before-trust guidance. |
+| [firewalla-flow-analysis-sqlite](https://github.com/Jeremy-Burgos/firewalla-flow-analysis-sqlite) | Firewall telemetry collection and SQLite-based analysis workflow for reviewing blocked traffic, persistent inbound activity, and rule matches with repeatable queries. |
+| [white-rabbit-selection-effect](https://github.com/Jeremy-Burgos/white-rabbit-selection-effect) | A text-selection interaction for the web and WordPress built on the Range API, with accessibility handling for reduced motion and documented integration paths. |
 
 ---
 
-## Web Stack Defense Repository Work
+## Published Sample Audits
 
-Security research and hardening references published through the [**Web Stack Defense**](https://github.com/web-stack-defense) organization:
+Two complete sample audits are published on my portfolio as methodology demonstrations, both downloadable as PDFs.
 
-| Repository | Description |
-|---|---|
-| [wsd-wordpress-security](https://github.com/web-stack-defense/wsd-wordpress-security) | Sanitized WordPress hardening configurations covering wp-config directives, Apache and Nginx hardening, login protection, file permissions, and plugin audit workflows |
-| [wsd-waf-edge-security](https://github.com/web-stack-defense/wsd-waf-edge-security) | Cloudflare custom WAF rule pack aligned to OWASP categories, rate limiting rules, origin lockdown configurations for Apache and Nginx, and operator-safe deployment workflows |
-| [wsd-web-infrastructure-security](https://github.com/web-stack-defense/wsd-web-infrastructure-security) | SSH daemon hardening, TLS configuration aligned to Mozilla Intermediate v5.8, HTTP security headers, UFW firewall baseline, and DNS hardening references covering DNSSEC, CAA, SPF, DKIM, and DMARC |
-| [wsd-google-cloud-web-security](https://github.com/web-stack-defense/wsd-google-cloud-web-security) | Cloud Armor security policies using OWASP CRS 4.22, IAM least-privilege patterns for web service accounts, VPC firewall baselines, HTTPS load balancer hardening with the RESTRICTED SSL profile, and Cloud Logging filters for security events |
+- **[Technical SEO Diagnostic](https://www.jeremyburgos.com/sample-audits/)**: A crawl of a WordPress site on Astra, Elementor, Cloudflare, and FlyingPress. Covers crawlability, indexation, on-page signals, Core Web Vitals, structured data, AI search readiness, internal linking, E-E-A-T signals, and security headers, with a prioritized remediation roadmap and effort estimates.
+
+- **[WordPress Performance Review](https://www.jeremyburgos.com/sample-audits/)**: Evaluates infrastructure response time, Core Web Vitals across three independent measurement sources, caching strategy, asset delivery, image optimization, and CSS optimization, with a sequenced sprint roadmap.
 
 ---
 
-## Personal Repository Work
+## Certifications
 
-Security research, hardening documentation, and detection engineering published on this profile:
+- Google Cloud Professional Security Engineer
+- CompTIA Security+
 
-| Repository | Description |
-|---|---|
-| [macos-privacy-hardening](https://github.com/Jeremy-Burgos/macos-privacy-hardening) | macOS workstation hardening covering visibility, integrity checks, firewalling, DNS privacy, logging, and the operational discipline needed to maintain it |
-| [linux](https://github.com/Jeremy-Burgos/linux) | Linux hardening references aligned to CIS benchmark categories |
-| [wazuh-detection-engineering](https://github.com/Jeremy-Burgos/wazuh-detection-engineering) | Wazuh SIEM detection rules, decoders, and active response configurations from production deployments |
-| [firewalla-flow-analysis-sqlite](https://github.com/Jeremy-Burgos/firewalla-flow-analysis-sqlite) | Firewalla flow log analysis using SQLite for repeatable forensic queries |
-| [tseo-elementor-form-hardening](https://github.com/Jeremy-Burgos/tseo-elementor-form-hardening) | WordPress plugin that hardens Elementor Pro forms against spam and abuse patterns, with PHPUnit test coverage |
+Verification: [credly.com/users/jeremyburgos](https://www.credly.com/users/jeremyburgos/badges)
 
 ---
 
-## Reach Me
+## Elsewhere
 
 - Portfolio: [jeremyburgos.com](https://www.jeremyburgos.com)
 - LinkedIn: [in/jeremy-burgos](https://www.linkedin.com/in/jeremy-burgos)
-- Credly: [credly.com/users/jeremyburgos](https://www.credly.com/users/jeremyburgos/badges)
-- Dev.to: [dev.to/jeremy-burgos](https://dev.to/jeremy-burgos)
-- Substack: [substack.com/@jeremyburgos](https://substack.com/@jeremyburgos)
